@@ -75,6 +75,8 @@ step 3( ![name](image_link) -->
 
 $$\ MSE ={\frac{1}{n}}\sum_{i=1}^{n} (Yi-\hat{Yi})^2$$
 
+$\ alpha $
+
 
 ## <u>*Emoji</u>
 
