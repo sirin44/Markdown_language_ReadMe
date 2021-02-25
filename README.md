@@ -61,7 +61,7 @@ Code_Block(Write code, text,..)
 [Test_link](www.testing.com)
 
 ## <u>*Math_Equations</u>
-$$\ x = \frac { - b \pm \sqrt { b ^ { 2 } - 4 a c } } { 2 a }$$
+>$$\ x = \frac { - b \pm \sqrt { b ^ { 2 } - 4 a c } } { 2 a }$$
 
 $$\ MSE ={\frac{1}{n}}\sum_{i=1}^{n} (Yi-\hat{Yi})^2$$
 
