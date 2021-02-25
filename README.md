@@ -62,9 +62,9 @@ Code_Block(Write code, text,..)
 
 ## <u>*Math_Equations</u>
 
->![math](./math1_1.jpg)
+![math](./math1_1.jpg)
 
->![math](./math1_3.jpg)
+![math](./math1_3.jpg)
 
 >$$\ x = \frac { - b \pm \sqrt { b ^ { 2 } - 4 a c } } { 2 a }$$
 
