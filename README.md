@@ -62,7 +62,7 @@ Code_Block(Write code, text,..)
 
 ## <u>*Math_Equations</u>
 
-![math](./math1_1.jpg)
+>![math](./math1_1.jpg)
 
 >![math](./math1_3.jpg)
 
