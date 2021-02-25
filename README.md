@@ -62,6 +62,13 @@ Code_Block(Write code, text,..)
 
 ## <u>*Math_Equations</u>
 
+<!--operations 
+step 1 (for math script formate): https://csrgxtu.github.io/2015/03/20/Writing-Mathematic-Fomulars-in-Markdown/
+step 2 (scrip to link): http://www.sciweavers.org/tex2img.php?eq=<b><i>paste-output-here</i></b>&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=
+step 3( ![name](image_link) -->
+
+>![script](http://www.sciweavers.org/tex2img.php?eq=%3Cb%3E%3Ci%3E%20MSE%20%3D%7B%5Cfrac%7B1%7D%7Bn%7D%7D%5Csum_%7Bi%3D1%7D%5E%7Bn%7D%20%28Yi-%5Chat%7BYi%7D%29%5E2%3C/i%3E%3C/b%3E&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=)
+
 ![math](./math1_1.jpg)
 
 ![math](./math1_3.jpg)
